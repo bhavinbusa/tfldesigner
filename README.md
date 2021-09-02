@@ -7,3 +7,13 @@ The industry spends countless number of hours manually designing TFL shells and 
 # Solution:
 Build an open-source TFL designer that can ingest available standards/templates from the CDISC library to design study-specific analysis output display (TFL shell) and in parallel generate machine-readable metadata that will facilitate generation of analysis dataset as well as the output of interest (TFL). Industry wide collaboration is required to develop a tool that is widely accepted and used by the stakeholders. This project will help build up the community to work on a solution that works for all without disrupting the current workflows. 
 
+# Value Proposition
+•	By the people, for the people 
+•	Open-source offering
+•	Integrate with the current industry workflow.
+•	Integrate with CDISC library and future updates.
+•	In line with the CDISC vision of concept-based standards 
+•	Professional services offering for Sponsor-specific implementation/ customization. 
+
+# Anticipated Users
+Biostatisticians, Statistical Programmers, and Data Standards expert
